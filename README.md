@@ -1,6 +1,8 @@
 ## Laravel 5 relations ##
 
-**Laravel 5 relations ** is a tutorial application.
+** Laravel 5 relations ** is a tutorial application.
+
+You can see the schema [there](http://www.laravelsd.com/share/FMfyIR).
 
 ### Installation ###
 
