@@ -1,6 +1,6 @@
 ## Laravel 5 relations ##
 
-** Laravel 5 relations ** is a tutorial application.
+**Laravel 5 relations** is a tutorial application.
 
 You can see the schema [there](http://www.laravelsd.com/share/FMfyIR).
 
@@ -10,7 +10,7 @@ You can see the schema [there](http://www.laravelsd.com/share/FMfyIR).
 * `cd projectname`
 * `composer install`
 * `php artisan key:generate`
-* Create a database and inform *.env*
+* Create a database and inform *.env* (remove *.example*)
 * `php artisan migrate` to create tables
 * `php artisan db:seed` to populate tables
 
