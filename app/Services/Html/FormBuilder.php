@@ -1,6 +1,6 @@
 <?php namespace App\Services\Html;
 
-class FormBuilder extends \Collective\Html\Formbuilder {
+class FormBuilder extends \Collective\Html\FormBuilder {
 
 	/**
 	 * Create a wrapped text input.

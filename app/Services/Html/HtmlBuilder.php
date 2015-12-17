@@ -1,6 +1,6 @@
 <?php namespace App\Services\Html;
 
-class HtmlBuilder extends \Collective\Html\Htmlbuilder {
+class HtmlBuilder extends \Collective\Html\HtmlBuilder {
 
 	/**
 	 * Create a panel.
